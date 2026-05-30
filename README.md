@@ -3,7 +3,7 @@
 <div align="center">
   <img align="right" height="250" src="https://i.pinimg.com/736x/be/48/7d/be487d589026b6be103c154dcada12b4.jpg" alt="Illustration" />
 
-  <p align="left">Hello! 👋 I'm Stel, I'm 20 years old and hold a degree in Systems Analysis and Development from Fatec Taubaté. I'm starting my journey in web development, focusing on the front end, and I love creating modern and responsive interfaces. Currently, I'm learning and having fun while studying and practicing programming. I enjoy challenges and I'm always looking for new opportunities to grow as a developer. 💻</p>
+  <p align="left">Hello! 👋 I'm Stel, I'm 22 years old and hold a degree in Systems Analysis and Development from Fatec Taubaté. I'm starting my journey in web development, focusing on the front end, and I love creating modern and responsive interfaces. Currently, I'm learning and having fun while studying and practicing programming. I enjoy challenges and I'm always looking for new opportunities to grow as a developer. 💻</p>
   <br>
 </div>
 
